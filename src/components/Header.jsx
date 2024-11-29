@@ -14,7 +14,7 @@ const Header = () => {
                     Iniciar Sesión
                 </Link>
                 <Link to="/register" className="hover:text-gray-300">
-                    Registrarsee
+                    Registrarse
                 </Link>
                 </div>
             </nav>
